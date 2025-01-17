@@ -1,6 +1,7 @@
 # numberGuesser Pseudocode
 
 print a statement asking the user for their name
+
 take the user's input and store it in the variable "userName"
 print a statement greeting the user by name
 print an explanation of the game
